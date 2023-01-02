@@ -1,6 +1,6 @@
 {
   "name": "phpecoraro-npm-modal",
-  "version": "2.2.1",
+  "version": "2.4.0",
   "description": "Modal component",
   "main": "./dist/index",
   "typings": "./dist/index",
@@ -23,5 +23,13 @@
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.11.1"
-  }
+  },
+  "keywords": [
+    "modal",
+    "dialog",
+    "react",
+    "react-component",
+    "react-modal",
+    "react-dialog"
+  ]
 }
